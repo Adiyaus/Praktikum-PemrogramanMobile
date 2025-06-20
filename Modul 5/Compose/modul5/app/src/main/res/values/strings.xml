@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">modul4</string>
+    <string name="imdb_button">IMDB</string>
+    <string name="detail_button">Detail</string>
+    <string name="plot_label">Plot</string>
+    <string name="movie_detail_title">%1$s (%2$s)</string>
+</resources>
